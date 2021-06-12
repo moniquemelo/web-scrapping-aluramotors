@@ -1,0 +1,3200 @@
+{
+  "LAMBORGHINI AVENTADOR": {
+    "preco": 338000.0,
+    "ano": 1993,
+    "km": 55286,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Câmera de estacionamento",
+      "Controle de tração",
+      "Sensor de estacionamento"
+    ]
+  },
+  "BMW M2": {
+    "preco": 346000.0,
+    "ano": 2018,
+    "km": 83447,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Controle de estabilidade",
+      "Travas elétricas",
+      "Freios ABS"
+    ]
+  },
+  "ALFA": {
+    "preco": 480000.0,
+    "ano": 2004,
+    "km": 19722,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "Bancos de couro",
+      "Rodas de liga",
+      "Câmera de estacionamento"
+    ]
+  },
+  "PUECH": {
+    "preco": 133000.0,
+    "ano": 1992,
+    "km": 34335,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Bancos de couro",
+      "Freios ABS",
+      "Rodas de liga",
+      "Câmbio automático"
+    ]
+  },
+  "LAMBORGHINI MURCIELAGO": {
+    "preco": 175000.0,
+    "ano": 1991,
+    "km": 464,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "Teto panorâmico",
+      "Sensor crepuscular",
+      "Piloto automático"
+    ]
+  },
+  "ASTON MARTIN": {
+    "preco": 239000.0,
+    "ano": 2004,
+    "km": 50189,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Painel digital",
+      "Controle de tração",
+      "Teto panorâmico",
+      "Central multimídia"
+    ]
+  },
+  "TVR": {
+    "preco": 115000.0,
+    "ano": 2014,
+    "km": 17778,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Teto panorâmico",
+      "Central multimídia",
+      "Controle de estabilidade"
+    ]
+  },
+  "EXCALIBUR": {
+    "preco": 114000.0,
+    "ano": 2009,
+    "km": 81251,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Painel digital",
+      "Câmbio automático",
+      "Sensor de chuva",
+      "Travas elétricas"
+    ]
+  },
+  "MCLAREN": {
+    "preco": 75000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel",
+    "status": "NOVO",
+    "descricao": [
+      "Central multimídia",
+      "Câmera de estacionamento",
+      "Câmbio automático",
+      "Ar condicionado"
+    ]
+  },
+  "TOYOTA": {
+    "preco": 117000.0,
+    "ano": 1999,
+    "km": 12536,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Bancos de couro",
+      "Freios ABS",
+      "Piloto automático",
+      "Controle de estabilidade"
+    ]
+  },
+  "VOLKSWAGEN BEETLE": {
+    "preco": 177000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 1.0 8v",
+    "status": "NOVO",
+    "descricao": [
+      "Teto panorâmico",
+      "Controle de tração",
+      "Sensor crepuscular",
+      "4 X 4"
+    ]
+  },
+  "SPIRIT OF ECSTASY": {
+    "preco": 322000.0,
+    "ano": 2011,
+    "km": 107484,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Ar condicionado",
+      "Travas elétricas",
+      "Rodas de liga",
+      "Bancos de couro"
+    ]
+  },
+  "PORSCHE 911 GT2RS": {
+    "preco": 194000.0,
+    "ano": 1992,
+    "km": 908,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Piloto automático",
+      "Painel digital",
+      "Ar condicionado",
+      "Vidros elétricos"
+    ]
+  },
+  "KOENIGSEGG": {
+    "preco": 469000.0,
+    "ano": 2015,
+    "km": 22485,
+    "motor": "Motor 2.4 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Sensor crepuscular",
+      "Painel digital",
+      "Teto panorâmico",
+      "Vidros elétricos"
+    ]
+  },
+  "LIMOUSINE": {
+    "preco": 424000.0,
+    "ano": 1996,
+    "km": 23007,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Câmera de estacionamento",
+      "Painel digital",
+      "Controle de tração"
+    ]
+  },
+  "FERRARI FF": {
+    "preco": 291000.0,
+    "ano": 2002,
+    "km": 106389,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "Bancos de couro",
+      "Freios ABS",
+      "Travas elétricas"
+    ]
+  },
+  "OFFENBURG": {
+    "preco": 96000.0,
+    "ano": 1990,
+    "km": 78181,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Piloto automático",
+      "Controle de estabilidade",
+      "Vidros elétricos"
+    ]
+  },
+  "MUSTANG": {
+    "preco": 271000.0,
+    "ano": 1998,
+    "km": 86001,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Ar condicionado",
+      "Central multimídia",
+      "Travas elétricas"
+    ]
+  },
+  "LUXURY": {
+    "preco": 387000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 2.4 Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Rodas de liga",
+      "Controle de tração",
+      "Freios ABS",
+      "Sensor de estacionamento"
+    ]
+  },
+  "BMW M5": {
+    "preco": 483000.0,
+    "ano": 2017,
+    "km": 10747,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Painel digital",
+      "Central multimídia",
+      "Vidros elétricos",
+      "Ar condicionado"
+    ]
+  },
+  "PORSCHE 911 GT3RS": {
+    "preco": 285000.0,
+    "ano": 1991,
+    "km": 28617,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Painel digital",
+      "Controle de estabilidade",
+      "4 X 4",
+      "Sensor de chuva"
+    ]
+  },
+  "GOLD": {
+    "preco": 357000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor V8",
+    "status": "NOVO",
+    "descricao": [
+      "Ar condicionado",
+      "Travas elétricas",
+      "Sensor de chuva",
+      "Bancos de couro"
+    ]
+  },
+  "CABRIOLET": {
+    "preco": 106000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V6",
+    "status": "NOVO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Teto panorâmico",
+      "Sensor crepuscular",
+      "Ar condicionado"
+    ]
+  },
+  "CHRYSLER 300": {
+    "preco": 439000.0,
+    "ano": 2009,
+    "km": 67480,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "Câmera de estacionamento",
+      "Sensor crepuscular",
+      "Travas elétricas"
+    ]
+  },
+  "CLASSIC": {
+    "preco": 143000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 4.0 Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Painel digital",
+      "Teto panorâmico",
+      "Travas elétricas",
+      "Sensor de estacionamento"
+    ]
+  },
+  "DODGE": {
+    "preco": 155000.0,
+    "ano": 1999,
+    "km": 85451,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "4 X 4",
+      "Sensor de chuva",
+      "Rodas de liga"
+    ]
+  },
+  "VINTAGE AUTOMOBILE": {
+    "preco": 337000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Travas elétricas",
+      "Câmbio automático",
+      "Bancos de couro",
+      "Teto panorâmico"
+    ]
+  },
+  "CORVETTE": {
+    "preco": 89000.0,
+    "ano": 1996,
+    "km": 107305,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Piloto automático",
+      "Controle de estabilidade",
+      "Freios ABS",
+      "Ar condicionado"
+    ]
+  },
+  "OPEL": {
+    "preco": 193000.0,
+    "ano": 1997,
+    "km": 119942,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "Piloto automático",
+      "Sensor de estacionamento",
+      "Ar condicionado"
+    ]
+  },
+  "AUDI R8": {
+    "preco": 356000.0,
+    "ano": 1993,
+    "km": 86338,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Painel digital",
+      "Travas elétricas",
+      "Vidros elétricos",
+      "4 X 4"
+    ]
+  },
+  "ASTON MARTIN VULCAN": {
+    "preco": 141000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel",
+    "status": "NOVO",
+    "descricao": [
+      "Câmbio automático",
+      "Sensor de chuva",
+      "Controle de tração",
+      "Teto panorâmico"
+    ]
+  },
+  "TRIUMPH MOTOR COMPANY": {
+    "preco": 176000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor V6",
+    "status": "NOVO",
+    "descricao": [
+      "Central multimídia",
+      "Ar condicionado",
+      "Bancos de couro",
+      "Câmera de estacionamento"
+    ]
+  },
+  "VINTAGE CAR": {
+    "preco": 65000.0,
+    "ano": 2003,
+    "km": 59288,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Piloto automático",
+      "Sensor de chuva",
+      "Vidros elétricos"
+    ]
+  },
+  "ACURA HEADLAMP": {
+    "preco": 449000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor V6",
+    "status": "NOVO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Câmbio automático",
+      "Piloto automático",
+      "Central multimídia"
+    ]
+  },
+  "LUXURY CARS": {
+    "preco": 379000.0,
+    "ano": 2014,
+    "km": 37738,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "Painel digital",
+      "Sensor de estacionamento",
+      "Teto panorâmico"
+    ]
+  },
+  "FERRARI 458 SPIDER": {
+    "preco": 262000.0,
+    "ano": 1993,
+    "km": 24316,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "Controle de estabilidade",
+      "Piloto automático",
+      "Sensor de chuva"
+    ]
+  },
+  "CLASSIC AUTOMOBILE": {
+    "preco": 356000.0,
+    "ano": 2016,
+    "km": 35762,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Câmbio automático",
+      "Sensor de estacionamento",
+      "Bancos de couro",
+      "Câmera de estacionamento"
+    ]
+  },
+  "INFINITY": {
+    "preco": 459000.0,
+    "ano": 1990,
+    "km": 51693,
+    "motor": "Motor 2.4 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Piloto automático",
+      "Ar condicionado",
+      "Painel digital"
+    ]
+  },
+  "ASTON MARTIN VANQUISH": {
+    "preco": 183000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 4.0 Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Painel digital",
+      "Piloto automático",
+      "Sensor de estacionamento",
+      "Sensor crepuscular"
+    ]
+  },
+  "MERCEDES BENZ 190 SL": {
+    "preco": 61000.0,
+    "ano": 1994,
+    "km": 111906,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Câmbio automático",
+      "Freios ABS",
+      "Sensor crepuscular",
+      "Controle de estabilidade"
+    ]
+  },
+  "AUDI TT": {
+    "preco": 225000.0,
+    "ano": 2008,
+    "km": 82711,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de chuva",
+      "Rodas de liga",
+      "Câmera de estacionamento",
+      "Travas elétricas"
+    ]
+  },
+  "DISTRICT": {
+    "preco": 181000.0,
+    "ano": 1995,
+    "km": 36215,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de chuva",
+      "Rodas de liga",
+      "Piloto automático",
+      "4 X 4"
+    ]
+  },
+  "VINTAGE": {
+    "preco": 460000.0,
+    "ano": 2005,
+    "km": 63879,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Ar condicionado",
+      "Câmbio automático",
+      "Controle de estabilidade"
+    ]
+  },
+  "AUDI": {
+    "preco": 161000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V6",
+    "status": "NOVO",
+    "descricao": [
+      "Piloto automático",
+      "Bancos de couro",
+      "Painel digital",
+      "Controle de tração"
+    ]
+  },
+  "AUDI RS6": {
+    "preco": 188000.0,
+    "ano": 1999,
+    "km": 26215,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Travas elétricas",
+      "Central multimídia",
+      "Vidros elétricos",
+      "Ar condicionado"
+    ]
+  },
+  "FERRARI 458 SPECIALE": {
+    "preco": 97000.0,
+    "ano": 2018,
+    "km": 1,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Controle de estabilidade",
+      "Painel digital",
+      "Ar condicionado"
+    ]
+  },
+  "TRUCK": {
+    "preco": 415000.0,
+    "ano": 2001,
+    "km": 68038,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "Sensor de estacionamento",
+      "Vidros elétricos",
+      "Câmbio automático"
+    ]
+  },
+  "CORVETTE STINGRAY": {
+    "preco": 172000.0,
+    "ano": 1996,
+    "km": 86477,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Câmbio automático",
+      "Controle de estabilidade",
+      "Sensor de estacionamento",
+      "Ar condicionado"
+    ]
+  },
+  "LAMBORGHINI": {
+    "preco": 281000.0,
+    "ano": 2004,
+    "km": 103570,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Vidros elétricos",
+      "Câmbio automático",
+      "Piloto automático",
+      "Teto panorâmico"
+    ]
+  },
+  "CHRYSLER": {
+    "preco": 396000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 3.0 32v",
+    "status": "NOVO",
+    "descricao": [
+      "4 X 4",
+      "Ar condicionado",
+      "Câmera de estacionamento",
+      "Sensor de estacionamento"
+    ]
+  },
+  "RANGE ROVER": {
+    "preco": 450000.0,
+    "ano": 2014,
+    "km": 85686,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de chuva",
+      "Ar condicionado",
+      "Painel digital",
+      "Teto panorâmico"
+    ]
+  },
+  "HAMMER": {
+    "preco": 470000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V8",
+    "status": "NOVO",
+    "descricao": [
+      "Bancos de couro",
+      "Travas elétricas",
+      "Sensor de estacionamento",
+      "Controle de tração"
+    ]
+  },
+  "FELICIA": {
+    "preco": 64000.0,
+    "ano": 1990,
+    "km": 68513,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "Painel digital",
+      "Ar condicionado",
+      "4 X 4"
+    ]
+  },
+  "MASERATI GRANTURISMO": {
+    "preco": 343000.0,
+    "ano": 2011,
+    "km": 71783,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Piloto automático",
+      "Bancos de couro",
+      "4 X 4",
+      "Sensor crepuscular"
+    ]
+  },
+  "LAMBORGHINI AVENTADOR S": {
+    "preco": 106000.0,
+    "ano": 2017,
+    "km": 115844,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Sensor de estacionamento",
+      "Central multimídia",
+      "Teto panorâmico"
+    ]
+  },
+  "BENTLEY": {
+    "preco": 493000.0,
+    "ano": 1994,
+    "km": 46442,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "Vidros elétricos",
+      "Piloto automático",
+      "Sensor crepuscular",
+      "4 X 4"
+    ]
+  },
+  "ASTON": {
+    "preco": 370000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 2.4 Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Painel digital",
+      "Piloto automático",
+      "Freios ABS",
+      "Controle de estabilidade"
+    ]
+  },
+  "LAMBORGHINI GALLARDO": {
+    "preco": 474000.0,
+    "ano": 1993,
+    "km": 77846,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Painel digital",
+      "Travas elétricas",
+      "Sensor crepuscular"
+    ]
+  },
+  "BMW 1M": {
+    "preco": 420000.0,
+    "ano": 2014,
+    "km": 28833,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Sensor crepuscular",
+      "Sensor de chuva",
+      "Piloto automático",
+      "Câmera de estacionamento"
+    ]
+  },
+  "MERCEDES S CLASS": {
+    "preco": 215000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 2.4 Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Central multimídia",
+      "Câmera de estacionamento",
+      "Sensor de estacionamento",
+      "Painel digital"
+    ]
+  },
+  "VINTAGE AUTO": {
+    "preco": 236000.0,
+    "ano": 2014,
+    "km": 59723,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Piloto automático",
+      "Controle de estabilidade",
+      "Sensor crepuscular"
+    ]
+  },
+  "LEATHER STEERING WHEEL": {
+    "preco": 124000.0,
+    "ano": 2001,
+    "km": 74365,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "Controle de tração",
+      "4 X 4",
+      "Câmera de estacionamento",
+      "Controle de estabilidade"
+    ]
+  },
+  "DKW": {
+    "preco": 125000.0,
+    "ano": 1994,
+    "km": 112727,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Controle de tração",
+      "Travas elétricas",
+      "Controle de estabilidade",
+      "Sensor crepuscular"
+    ]
+  },
+  "FERRARI": {
+    "preco": 151000.0,
+    "ano": 2011,
+    "km": 111255,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Controle de tração",
+      "Travas elétricas",
+      "Teto panorâmico"
+    ]
+  },
+  "BMW M3": {
+    "preco": 351000.0,
+    "ano": 2000,
+    "km": 21968,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Teto panorâmico",
+      "Sensor de chuva",
+      "Ar condicionado",
+      "Câmera de estacionamento"
+    ]
+  },
+  "TUNING": {
+    "preco": 223000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V6",
+    "status": "NOVO",
+    "descricao": [
+      "Câmbio automático",
+      "Ar condicionado",
+      "Bancos de couro",
+      "Controle de tração"
+    ]
+  },
+  "LINCOLN MKZ": {
+    "preco": 79000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V6",
+    "status": "NOVO",
+    "descricao": [
+      "Bancos de couro",
+      "Sensor de chuva",
+      "Sensor de estacionamento",
+      "Freios ABS"
+    ]
+  },
+  "MASERATI LEVANTE": {
+    "preco": 252000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor V8",
+    "status": "NOVO",
+    "descricao": [
+      "Controle de tração",
+      "Sensor de estacionamento",
+      "Freios ABS",
+      "Painel digital"
+    ]
+  },
+  "ROLLSROYCE": {
+    "preco": 357000.0,
+    "ano": 1991,
+    "km": 5947,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "Piloto automático",
+      "Controle de estabilidade",
+      "Câmbio automático"
+    ]
+  },
+  "MERCEDES BENZ": {
+    "preco": 396000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V6",
+    "status": "NOVO",
+    "descricao": [
+      "Vidros elétricos",
+      "Controle de tração",
+      "Painel digital",
+      "Rodas de liga"
+    ]
+  },
+  "MORGAN ROADSTER": {
+    "preco": 460000.0,
+    "ano": 1999,
+    "km": 102662,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Ar condicionado",
+      "Travas elétricas",
+      "Controle de tração",
+      "Freios ABS"
+    ]
+  },
+  "TOYOTA LAND CRUISER": {
+    "preco": 72000.0,
+    "ano": 1990,
+    "km": 46571,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "4 X 4",
+      "Travas elétricas",
+      "Câmera de estacionamento"
+    ]
+  },
+  "MERCEDES BENZ 300 SL": {
+    "preco": 422000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor V8",
+    "status": "NOVO",
+    "descricao": [
+      "Painel digital",
+      "Vidros elétricos",
+      "Teto panorâmico",
+      "Sensor crepuscular"
+    ]
+  },
+  "CASABLANCA": {
+    "preco": 399000.0,
+    "ano": 2003,
+    "km": 9912,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Ar condicionado",
+      "Freios ABS",
+      "Câmera de estacionamento",
+      "Vidros elétricos"
+    ]
+  },
+  "BUGATTI": {
+    "preco": 455000.0,
+    "ano": 1993,
+    "km": 81154,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Painel digital",
+      "Controle de estabilidade",
+      "Controle de tração"
+    ]
+  },
+  "PORSCHE CARRERA GT": {
+    "preco": 173000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 3.0 32v",
+    "status": "NOVO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Vidros elétricos",
+      "Piloto automático",
+      "Painel digital"
+    ]
+  },
+  "BLACK AND WHITE": {
+    "preco": 340000.0,
+    "ano": 2005,
+    "km": 86899,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Painel digital",
+      "Teto panorâmico",
+      "Sensor crepuscular",
+      "Rodas de liga"
+    ]
+  },
+  "BMW I8": {
+    "preco": 443000.0,
+    "ano": 1994,
+    "km": 112579,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Ar condicionado",
+      "4 X 4",
+      "Teto panorâmico"
+    ]
+  },
+  "SUBARU": {
+    "preco": 383000.0,
+    "ano": 1995,
+    "km": 48416,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de chuva",
+      "Freios ABS",
+      "4 X 4",
+      "Teto panorâmico"
+    ]
+  },
+  "AMAZING": {
+    "preco": 287000.0,
+    "ano": 2015,
+    "km": 111613,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Controle de estabilidade",
+      "Central multimídia",
+      "Câmera de estacionamento",
+      "Câmbio automático"
+    ]
+  },
+  "AUSTIN HEALEY": {
+    "preco": 350000.0,
+    "ano": 2003,
+    "km": 15810,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Teto panorâmico",
+      "Controle de estabilidade",
+      "Câmbio automático"
+    ]
+  },
+  "FORD": {
+    "preco": 276000.0,
+    "ano": 1995,
+    "km": 115874,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Travas elétricas",
+      "Câmbio automático",
+      "Central multimídia",
+      "4 X 4"
+    ]
+  },
+  "ROLLS ROYCE WRAITH": {
+    "preco": 163000.0,
+    "ano": 2010,
+    "km": 99918,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Controle de estabilidade",
+      "Painel digital",
+      "Câmbio automático"
+    ]
+  },
+  "MERCEDES E63": {
+    "preco": 107000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Sensor de chuva",
+      "Central multimídia",
+      "Ar condicionado",
+      "Controle de estabilidade"
+    ]
+  },
+  "MCLAREN MP4 12C": {
+    "preco": 173000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V6",
+    "status": "NOVO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Central multimídia",
+      "Sensor crepuscular",
+      "Piloto automático"
+    ]
+  },
+  "VWBEETLE": {
+    "preco": 150000.0,
+    "ano": 1992,
+    "km": 108055,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Teto panorâmico",
+      "Travas elétricas",
+      "Câmbio automático"
+    ]
+  },
+  "FERRARI 360": {
+    "preco": 305000.0,
+    "ano": 1991,
+    "km": 106251,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Vidros elétricos",
+      "Rodas de liga",
+      "Travas elétricas",
+      "Sensor de chuva"
+    ]
+  },
+  "CITROEN": {
+    "preco": 220000.0,
+    "ano": 1995,
+    "km": 13433,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Piloto automático",
+      "Central multimídia",
+      "Câmera de estacionamento",
+      "Travas elétricas"
+    ]
+  },
+  "FERRARI 458": {
+    "preco": 176000.0,
+    "ano": 2000,
+    "km": 75458,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Controle de estabilidade",
+      "Câmbio automático",
+      "Painel digital",
+      "Bancos de couro"
+    ]
+  },
+  "OLDTIMERS": {
+    "preco": 201000.0,
+    "ano": 2015,
+    "km": 41735,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Vidros elétricos",
+      "Ar condicionado",
+      "Controle de estabilidade",
+      "Sensor crepuscular"
+    ]
+  },
+  "CAR PARTS WHITE": {
+    "preco": 384000.0,
+    "ano": 2003,
+    "km": 51348,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Controle de estabilidade",
+      "Câmera de estacionamento",
+      "Câmbio automático",
+      "Ar condicionado"
+    ]
+  },
+  "GOODYEAR": {
+    "preco": 111000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Freios ABS",
+      "Controle de tração",
+      "Teto panorâmico",
+      "Controle de estabilidade"
+    ]
+  },
+  "AFTERFX CUSTOM JEEP": {
+    "preco": 146000.0,
+    "ano": 2017,
+    "km": 68014,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Controle de tração",
+      "Travas elétricas",
+      "4 X 4",
+      "Vidros elétricos"
+    ]
+  },
+  "WHITE LUXURY CAR": {
+    "preco": 319000.0,
+    "ano": 1993,
+    "km": 52282,
+    "motor": "Motor 2.4 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Controle de tração",
+      "Ar condicionado",
+      "Freios ABS",
+      "Câmbio automático"
+    ]
+  },
+  "LEXUS BREAK LIGHT": {
+    "preco": 86000.0,
+    "ano": 2016,
+    "km": 100617,
+    "motor": "Motor 2.4 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "Freios ABS",
+      "Câmera de estacionamento",
+      "4 X 4"
+    ]
+  },
+  "FERRARI CALIFORNIA": {
+    "preco": 188000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor V6",
+    "status": "NOVO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Rodas de liga",
+      "Controle de estabilidade",
+      "Sensor de estacionamento"
+    ]
+  },
+  "MERC": {
+    "preco": 467000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor V6",
+    "status": "NOVO",
+    "descricao": [
+      "Ar condicionado",
+      "4 X 4",
+      "Painel digital",
+      "Piloto automático"
+    ]
+  },
+  "LEXUS IS F": {
+    "preco": 69000.0,
+    "ano": 2013,
+    "km": 79881,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Teto panorâmico",
+      "4 X 4",
+      "Travas elétricas",
+      "Sensor de chuva"
+    ]
+  },
+  "FORD MUSTANG": {
+    "preco": 230000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 1.0 8v",
+    "status": "NOVO",
+    "descricao": [
+      "Controle de tração",
+      "4 X 4",
+      "Vidros elétricos",
+      "Ar condicionado"
+    ]
+  },
+  "PAGANI HUAYRA": {
+    "preco": 463000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V8",
+    "status": "NOVO",
+    "descricao": [
+      "Câmbio automático",
+      "Freios ABS",
+      "Sensor de chuva",
+      "Sensor crepuscular"
+    ]
+  },
+  "FIAT": {
+    "preco": 440000.0,
+    "ano": 2003,
+    "km": 90354,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "Sensor crepuscular",
+      "Piloto automático",
+      "Câmera de estacionamento",
+      "Painel digital"
+    ]
+  },
+  "HOUSTON": {
+    "preco": 58000.0,
+    "ano": 1995,
+    "km": 48876,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Rodas de liga",
+      "Teto panorâmico",
+      "Controle de tração"
+    ]
+  },
+  "LEXUS": {
+    "preco": 475000.0,
+    "ano": 2006,
+    "km": 43186,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Sensor crepuscular",
+      "Bancos de couro",
+      "Piloto automático",
+      "Freios ABS"
+    ]
+  },
+  "SPAIN": {
+    "preco": 133000.0,
+    "ano": 2007,
+    "km": 66296,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "Freios ABS",
+      "Sensor de chuva",
+      "Controle de estabilidade"
+    ]
+  },
+  "BORGWARD": {
+    "preco": 322000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Vidros elétricos",
+      "Controle de estabilidade",
+      "Piloto automático",
+      "Sensor crepuscular"
+    ]
+  },
+  "SPOKES": {
+    "preco": 138000.0,
+    "ano": 2016,
+    "km": 72469,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Câmbio automático",
+      "Freios ABS",
+      "Travas elétricas",
+      "Controle de tração"
+    ]
+  },
+  "MUSCLE CAR": {
+    "preco": 413000.0,
+    "ano": 1991,
+    "km": 107498,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de chuva",
+      "Teto panorâmico",
+      "Freios ABS",
+      "Controle de estabilidade"
+    ]
+  },
+  "MCLAREN 650S": {
+    "preco": 483000.0,
+    "ano": 1996,
+    "km": 76244,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "Freios ABS",
+      "Controle de tração",
+      "Sensor de estacionamento"
+    ]
+  },
+  "SPYKER C8": {
+    "preco": 223000.0,
+    "ano": 2001,
+    "km": 22527,
+    "motor": "Motor 2.4 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Bancos de couro",
+      "Câmbio automático",
+      "Travas elétricas",
+      "Teto panorâmico"
+    ]
+  },
+  "BOXSTER": {
+    "preco": 126000.0,
+    "ano": 2005,
+    "km": 66836,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Câmbio automático",
+      "Painel digital",
+      "Piloto automático"
+    ]
+  },
+  "ASTON MARTIN SHOOTING BRAKE ZAGATO": {
+    "preco": 354000.0,
+    "ano": 2007,
+    "km": 22225,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Teto panorâmico",
+      "Controle de estabilidade",
+      "Sensor de chuva",
+      "Sensor crepuscular"
+    ]
+  },
+  "PORSCHE 911": {
+    "preco": 132000.0,
+    "ano": 2007,
+    "km": 97778,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "4 X 4",
+      "Bancos de couro",
+      "Controle de estabilidade"
+    ]
+  },
+  "ASTON MARTIN DB11": {
+    "preco": 201000.0,
+    "ano": 1995,
+    "km": 95124,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "Bancos de couro",
+      "Sensor crepuscular",
+      "Sensor de estacionamento"
+    ]
+  },
+  "KAHULUI": {
+    "preco": 58000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor V8",
+    "status": "NOVO",
+    "descricao": [
+      "Rodas de liga",
+      "Teto panorâmico",
+      "Sensor de chuva",
+      "Painel digital"
+    ]
+  },
+  "DAIMLER": {
+    "preco": 159000.0,
+    "ano": 1997,
+    "km": 76354,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Piloto automático",
+      "Câmera de estacionamento",
+      "Câmbio automático",
+      "Sensor crepuscular"
+    ]
+  },
+  "RED CAR": {
+    "preco": 167000.0,
+    "ano": 1993,
+    "km": 11015,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Bancos de couro",
+      "Sensor de chuva",
+      "Teto panorâmico"
+    ]
+  },
+  "PORSCHE": {
+    "preco": 249000.0,
+    "ano": 1990,
+    "km": 9856,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Controle de estabilidade",
+      "Teto panorâmico",
+      "Freios ABS",
+      "4 X 4"
+    ]
+  },
+  "ASPHALT": {
+    "preco": 402000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 2.0 16v",
+    "status": "NOVO",
+    "descricao": [
+      "Rodas de liga",
+      "Freios ABS",
+      "Controle de tração",
+      "Bancos de couro"
+    ]
+  },
+  "ASTON MARTIN VANTAGE": {
+    "preco": 393000.0,
+    "ano": 2018,
+    "km": 76558,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Painel digital",
+      "Freios ABS",
+      "Controle de estabilidade",
+      "Sensor de chuva"
+    ]
+  },
+  "PORSCHE TURBO": {
+    "preco": 332000.0,
+    "ano": 1993,
+    "km": 23418,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Travas elétricas",
+      "Sensor de chuva",
+      "Piloto automático",
+      "4 X 4"
+    ]
+  },
+  "REO": {
+    "preco": 472000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 1.8 16v",
+    "status": "NOVO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Painel digital",
+      "Bancos de couro",
+      "Sensor de chuva"
+    ]
+  },
+  "COBRA": {
+    "preco": 442000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 2.4 Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Teto panorâmico",
+      "Sensor de chuva",
+      "Câmbio automático",
+      "Piloto automático"
+    ]
+  },
+  "SUV": {
+    "preco": 108000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 1.0 8v",
+    "status": "NOVO",
+    "descricao": [
+      "Freios ABS",
+      "Bancos de couro",
+      "Sensor de estacionamento",
+      "Controle de tração"
+    ]
+  },
+  "JEEP": {
+    "preco": 471000.0,
+    "ano": 1990,
+    "km": 68534,
+    "motor": "Motor 2.4 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Controle de estabilidade",
+      "4 X 4",
+      "Central multimídia",
+      "Controle de tração"
+    ]
+  },
+  "CLASSIC CAR": {
+    "preco": 210000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V8",
+    "status": "NOVO",
+    "descricao": [
+      "Câmbio automático",
+      "4 X 4",
+      "Sensor de estacionamento",
+      "Ar condicionado"
+    ]
+  },
+  "TEA": {
+    "preco": 332000.0,
+    "ano": 2014,
+    "km": 115936,
+    "motor": "Motor 2.4 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Vidros elétricos",
+      "Painel digital",
+      "Central multimídia"
+    ]
+  },
+  "TRAFFIC": {
+    "preco": 113000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 3.0 32v",
+    "status": "NOVO",
+    "descricao": [
+      "Controle de tração",
+      "Vidros elétricos",
+      "Bancos de couro",
+      "Painel digital"
+    ]
+  },
+  "MERCEDES BENZ 600SE LUXURY SEDAN": {
+    "preco": 172000.0,
+    "ano": 1997,
+    "km": 80168,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Freios ABS",
+      "Teto panorâmico",
+      "Sensor de chuva"
+    ]
+  },
+  "PKW": {
+    "preco": 180000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel",
+    "status": "NOVO",
+    "descricao": [
+      "Travas elétricas",
+      "Teto panorâmico",
+      "Rodas de liga",
+      "Ar condicionado"
+    ]
+  },
+  "MERCEDES SLK55": {
+    "preco": 498000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V6",
+    "status": "NOVO",
+    "descricao": [
+      "Rodas de liga",
+      "Câmera de estacionamento",
+      "4 X 4",
+      "Piloto automático"
+    ]
+  },
+  "LUXURY CAR": {
+    "preco": 142000.0,
+    "ano": 2015,
+    "km": 72680,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Sensor de estacionamento",
+      "Vidros elétricos",
+      "Teto panorâmico"
+    ]
+  },
+  "MERCEDES SL300": {
+    "preco": 121000.0,
+    "ano": 1994,
+    "km": 16192,
+    "motor": "Motor 2.4 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Câmbio automático",
+      "Sensor de chuva",
+      "Câmera de estacionamento"
+    ]
+  },
+  "REDJAWA": {
+    "preco": 432000.0,
+    "ano": 1992,
+    "km": 85309,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Piloto automático",
+      "Controle de tração",
+      "Central multimídia",
+      "Ar condicionado"
+    ]
+  },
+  "MINI": {
+    "preco": 297000.0,
+    "ano": 2000,
+    "km": 86019,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "Câmera de estacionamento",
+      "Central multimídia",
+      "Controle de estabilidade"
+    ]
+  },
+  "HUMMER": {
+    "preco": 160000.0,
+    "ano": 2010,
+    "km": 64634,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Ar condicionado",
+      "Sensor de chuva",
+      "Sensor de estacionamento",
+      "Câmbio automático"
+    ]
+  },
+  "FIRE": {
+    "preco": 191000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V6",
+    "status": "NOVO",
+    "descricao": [
+      "Travas elétricas",
+      "Vidros elétricos",
+      "Rodas de liga",
+      "Sensor crepuscular"
+    ]
+  },
+  "FERRARI 348": {
+    "preco": 321000.0,
+    "ano": 2013,
+    "km": 44072,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Teto panorâmico",
+      "Sensor de estacionamento",
+      "4 X 4",
+      "Rodas de liga"
+    ]
+  },
+  "FERRARI ENZO": {
+    "preco": 342000.0,
+    "ano": 1994,
+    "km": 111311,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Sensor crepuscular",
+      "Câmbio automático",
+      "Sensor de estacionamento",
+      "Freios ABS"
+    ]
+  },
+  "ALLOY": {
+    "preco": 131000.0,
+    "ano": 1995,
+    "km": 58944,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "Painel digital",
+      "Central multimídia",
+      "Freios ABS"
+    ]
+  },
+  "SPORT CAR": {
+    "preco": 102000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor V8",
+    "status": "NOVO",
+    "descricao": [
+      "Ar condicionado",
+      "Central multimídia",
+      "Sensor de chuva",
+      "Teto panorâmico"
+    ]
+  },
+  "CUBA": {
+    "preco": 422000.0,
+    "ano": 1992,
+    "km": 62255,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Vidros elétricos",
+      "Controle de tração",
+      "Piloto automático",
+      "Teto panorâmico"
+    ]
+  },
+  "FERRARI F12": {
+    "preco": 482000.0,
+    "ano": 2008,
+    "km": 65143,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Rodas de liga",
+      "Travas elétricas",
+      "Sensor de chuva"
+    ]
+  },
+  "ACURA REAR": {
+    "preco": 229000.0,
+    "ano": 2007,
+    "km": 33343,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Teto panorâmico",
+      "Painel digital",
+      "Travas elétricas",
+      "Controle de estabilidade"
+    ]
+  },
+  "MERCEDES BENZ SLR": {
+    "preco": 61000.0,
+    "ano": 1998,
+    "km": 66074,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Controle de tração",
+      "Câmera de estacionamento",
+      "Central multimídia",
+      "Travas elétricas"
+    ]
+  },
+  "CADILLAC": {
+    "preco": 491000.0,
+    "ano": 2001,
+    "km": 90123,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "4 X 4",
+      "Piloto automático",
+      "Vidros elétricos"
+    ]
+  },
+  "FORD GT40": {
+    "preco": 340000.0,
+    "ano": 2009,
+    "km": 118844,
+    "motor": "Motor 2.4 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "Teto panorâmico",
+      "Painel digital",
+      "Bancos de couro"
+    ]
+  },
+  "HOTROD TRUCK": {
+    "preco": 384000.0,
+    "ano": 2018,
+    "km": 73321,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "Ar condicionado",
+      "Rodas de liga",
+      "Painel digital",
+      "Controle de estabilidade"
+    ]
+  },
+  "CLASSIC CARS": {
+    "preco": 81000.0,
+    "ano": 2006,
+    "km": 7306,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Travas elétricas",
+      "Central multimídia",
+      "4 X 4",
+      "Rodas de liga"
+    ]
+  },
+  "BMW GLAS V8 COUPE": {
+    "preco": 429000.0,
+    "ano": 1991,
+    "km": 85498,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Travas elétricas",
+      "Ar condicionado",
+      "Piloto automático",
+      "Central multimídia"
+    ]
+  },
+  "PEUGEOT": {
+    "preco": 384000.0,
+    "ano": 2017,
+    "km": 17022,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "Teto panorâmico",
+      "Câmera de estacionamento",
+      "Painel digital"
+    ]
+  },
+  "JAGUAR CAR": {
+    "preco": 318000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 3.0 32v",
+    "status": "NOVO",
+    "descricao": [
+      "Piloto automático",
+      "4 X 4",
+      "Freios ABS",
+      "Travas elétricas"
+    ]
+  },
+  "COBRA SPORTS CAR": {
+    "preco": 326000.0,
+    "ano": 2008,
+    "km": 112215,
+    "motor": "Motor 2.4 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Travas elétricas",
+      "Painel digital",
+      "Teto panorâmico",
+      "Central multimídia"
+    ]
+  },
+  "STRETCH LIMOUSINE": {
+    "preco": 447000.0,
+    "ano": 2009,
+    "km": 53225,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Controle de estabilidade",
+      "Teto panorâmico",
+      "Bancos de couro",
+      "Ar condicionado"
+    ]
+  },
+  "FERRARI CAR": {
+    "preco": 87000.0,
+    "ano": 2002,
+    "km": 86124,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Teto panorâmico",
+      "Câmbio automático",
+      "Central multimídia",
+      "Travas elétricas"
+    ]
+  },
+  "MERCURYDL": {
+    "preco": 182000.0,
+    "ano": 1997,
+    "km": 108631,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Freios ABS",
+      "Controle de tração",
+      "Câmera de estacionamento"
+    ]
+  },
+  "MASERATI": {
+    "preco": 212000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 1.0 8v",
+    "status": "NOVO",
+    "descricao": [
+      "Câmbio automático",
+      "Sensor crepuscular",
+      "Central multimídia",
+      "Vidros elétricos"
+    ]
+  },
+  "MERCEDES C63 ENGINE": {
+    "preco": 253000.0,
+    "ano": 1995,
+    "km": 89724,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "Vidros elétricos",
+      "Câmera de estacionamento",
+      "Sensor de chuva",
+      "Teto panorâmico"
+    ]
+  },
+  "COUPE": {
+    "preco": 246000.0,
+    "ano": 2001,
+    "km": 116767,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de chuva",
+      "Câmera de estacionamento",
+      "Teto panorâmico",
+      "Vidros elétricos"
+    ]
+  },
+  "GT": {
+    "preco": 364000.0,
+    "ano": 2016,
+    "km": 38803,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Vidros elétricos",
+      "Sensor crepuscular",
+      "Freios ABS",
+      "Ar condicionado"
+    ]
+  },
+  "RENAULT": {
+    "preco": 434000.0,
+    "ano": 1991,
+    "km": 101983,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Câmbio automático",
+      "Sensor crepuscular",
+      "Rodas de liga",
+      "Sensor de chuva"
+    ]
+  },
+  "FIAT 130": {
+    "preco": 493000.0,
+    "ano": 2010,
+    "km": 11257,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Sensor crepuscular",
+      "Travas elétricas",
+      "Central multimídia",
+      "4 X 4"
+    ]
+  },
+  "VINTAGE CARS": {
+    "preco": 303000.0,
+    "ano": 2004,
+    "km": 47972,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Ar condicionado",
+      "Freios ABS",
+      "Piloto automático"
+    ]
+  },
+  "NISSAN GTR": {
+    "preco": 363000.0,
+    "ano": 1995,
+    "km": 61740,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Sensor de estacionamento",
+      "Sensor de chuva",
+      "Piloto automático"
+    ]
+  },
+  "MERCEDES SLS": {
+    "preco": 180000.0,
+    "ano": 2004,
+    "km": 41278,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Sensor de estacionamento",
+      "Controle de tração",
+      "Sensor de chuva"
+    ]
+  },
+  "LUXURY AUTOMOBILE": {
+    "preco": 175000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor V8",
+    "status": "NOVO",
+    "descricao": [
+      "Teto panorâmico",
+      "Central multimídia",
+      "Ar condicionado",
+      "Sensor de estacionamento"
+    ]
+  },
+  "KIA CAR": {
+    "preco": 455000.0,
+    "ano": 2017,
+    "km": 95496,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Controle de tração",
+      "Painel digital",
+      "Teto panorâmico",
+      "Freios ABS"
+    ]
+  },
+  "TANGERINE LAMBORGHINI": {
+    "preco": 296000.0,
+    "ano": 2003,
+    "km": 100107,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Freios ABS",
+      "Painel digital",
+      "Câmbio automático"
+    ]
+  },
+  "CLASSIC TAILLIGHT": {
+    "preco": 363000.0,
+    "ano": 2015,
+    "km": 39240,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Vidros elétricos",
+      "Painel digital",
+      "Freios ABS",
+      "Sensor crepuscular"
+    ]
+  },
+  "WIESMANN GT MF4": {
+    "preco": 217000.0,
+    "ano": 1994,
+    "km": 82228,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Freios ABS",
+      "Controle de estabilidade",
+      "Painel digital"
+    ]
+  },
+  "GMC YUKON": {
+    "preco": 51000.0,
+    "ano": 2017,
+    "km": 24757,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Rodas de liga",
+      "Câmera de estacionamento",
+      "Central multimídia"
+    ]
+  },
+  "PORSCHE 918 SPYDER": {
+    "preco": 109000.0,
+    "ano": 2015,
+    "km": 70486,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Travas elétricas",
+      "Painel digital",
+      "Rodas de liga",
+      "Câmera de estacionamento"
+    ]
+  },
+  "T1": {
+    "preco": 189000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 1.0 8v",
+    "status": "NOVO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Painel digital",
+      "Controle de tração",
+      "Rodas de liga"
+    ]
+  },
+  "MERCEDES BENZ 280S": {
+    "preco": 110000.0,
+    "ano": 2000,
+    "km": 108914,
+    "motor": "Motor 2.4 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Ar condicionado",
+      "Câmera de estacionamento",
+      "Painel digital",
+      "Travas elétricas"
+    ]
+  },
+  "LINCOLN": {
+    "preco": 321000.0,
+    "ano": 2004,
+    "km": 90412,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Controle de tração",
+      "Sensor de estacionamento",
+      "Ar condicionado",
+      "Painel digital"
+    ]
+  },
+  "BLACK SUV": {
+    "preco": 275000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V8",
+    "status": "NOVO",
+    "descricao": [
+      "Câmbio automático",
+      "Travas elétricas",
+      "Vidros elétricos",
+      "4 X 4"
+    ]
+  },
+  "DESOTO": {
+    "preco": 261000.0,
+    "ano": 2015,
+    "km": 4561,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Controle de tração",
+      "Controle de estabilidade",
+      "Câmbio automático"
+    ]
+  },
+  "CHEVROLET": {
+    "preco": 173000.0,
+    "ano": 1992,
+    "km": 108884,
+    "motor": "Motor 2.4 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "4 X 4",
+      "Painel digital",
+      "Sensor de estacionamento"
+    ]
+  },
+  "VOLVO": {
+    "preco": 303000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor V6",
+    "status": "NOVO",
+    "descricao": [
+      "Central multimídia",
+      "Piloto automático",
+      "Rodas de liga",
+      "Controle de estabilidade"
+    ]
+  },
+  "KOENIGSEGG CCR": {
+    "preco": 264000.0,
+    "ano": 1993,
+    "km": 47501,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Ar condicionado",
+      "Teto panorâmico",
+      "Sensor crepuscular"
+    ]
+  },
+  "LAMBORGHINI MURCIELAGO SV": {
+    "preco": 323000.0,
+    "ano": 2005,
+    "km": 96423,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Câmbio automático",
+      "Freios ABS",
+      "Bancos de couro",
+      "Painel digital"
+    ]
+  },
+  "OPEL DIPLOMAT": {
+    "preco": 244000.0,
+    "ano": 1992,
+    "km": 50436,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Controle de tração",
+      "Vidros elétricos",
+      "Rodas de liga",
+      "Sensor de estacionamento"
+    ]
+  },
+  "ROLLS ROYCE": {
+    "preco": 350000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel V6",
+    "status": "NOVO",
+    "descricao": [
+      "Controle de estabilidade",
+      "Controle de tração",
+      "Sensor de chuva",
+      "Vidros elétricos"
+    ]
+  },
+  "FERRARI F430 SPIDER": {
+    "preco": 316000.0,
+    "ano": 1993,
+    "km": 9245,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Painel digital",
+      "Bancos de couro",
+      "Freios ABS",
+      "Controle de tração"
+    ]
+  },
+  "SHEAVY": {
+    "preco": 352000.0,
+    "ano": 1997,
+    "km": 16528,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "Teto panorâmico",
+      "4 X 4",
+      "Painel digital",
+      "Sensor de chuva"
+    ]
+  },
+  "AUTO DETAIL": {
+    "preco": 291000.0,
+    "ano": 2011,
+    "km": 119240,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Controle de estabilidade",
+      "Câmera de estacionamento",
+      "Travas elétricas"
+    ]
+  },
+  "ALFA ROMEO": {
+    "preco": 98000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 2.0 16v",
+    "status": "NOVO",
+    "descricao": [
+      "Câmbio automático",
+      "Bancos de couro",
+      "Controle de tração",
+      "Painel digital"
+    ]
+  },
+  "LAMBORGHINI HURACAN": {
+    "preco": 218000.0,
+    "ano": 1991,
+    "km": 80719,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Sensor crepuscular",
+      "Câmbio automático",
+      "Controle de tração",
+      "Central multimídia"
+    ]
+  },
+  "MORGAN PLUS 8": {
+    "preco": 218000.0,
+    "ano": 2010,
+    "km": 113873,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "Painel digital",
+      "Controle de estabilidade",
+      "Travas elétricas"
+    ]
+  },
+  "BMW M4": {
+    "preco": 387000.0,
+    "ano": 1995,
+    "km": 91022,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Vidros elétricos",
+      "Controle de estabilidade",
+      "Ar condicionado"
+    ]
+  },
+  "COLD": {
+    "preco": 105000.0,
+    "ano": 2002,
+    "km": 50166,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Câmbio automático",
+      "Vidros elétricos",
+      "Câmera de estacionamento",
+      "Controle de tração"
+    ]
+  },
+  "C63": {
+    "preco": 170000.0,
+    "ano": 1994,
+    "km": 59885,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de chuva",
+      "Controle de tração",
+      "Sensor de estacionamento",
+      "Câmbio automático"
+    ]
+  },
+  "CUSTOM RIMS": {
+    "preco": 490000.0,
+    "ano": 1994,
+    "km": 15292,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Controle de tração",
+      "4 X 4",
+      "Vidros elétricos",
+      "Sensor de chuva"
+    ]
+  },
+  "MERCEDES BENZ S CLASS": {
+    "preco": 152000.0,
+    "ano": 2003,
+    "km": 23426,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Controle de tração",
+      "Sensor crepuscular",
+      "Piloto automático",
+      "Sensor de estacionamento"
+    ]
+  },
+  "ADAM OPEL AG": {
+    "preco": 480000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 1.0 8v",
+    "status": "NOVO",
+    "descricao": [
+      "Sensor crepuscular",
+      "Sensor de estacionamento",
+      "Travas elétricas",
+      "Sensor de chuva"
+    ]
+  },
+  "SPOTLIGHT": {
+    "preco": 381000.0,
+    "ano": 2000,
+    "km": 81779,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "Controle de tração",
+      "Bancos de couro",
+      "Vidros elétricos"
+    ]
+  },
+  "LOTUS": {
+    "preco": 468000.0,
+    "ano": 1995,
+    "km": 45004,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Travas elétricas",
+      "Freios ABS",
+      "Bancos de couro",
+      "Câmbio automático"
+    ]
+  },
+  "SPORTS CAR": {
+    "preco": 54000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 1.8 16v",
+    "status": "NOVO",
+    "descricao": [
+      "Travas elétricas",
+      "Rodas de liga",
+      "Bancos de couro",
+      "Central multimídia"
+    ]
+  },
+  "RESTORED": {
+    "preco": 304000.0,
+    "ano": 2002,
+    "km": 84771,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Teto panorâmico",
+      "Câmbio automático",
+      "Controle de estabilidade",
+      "Vidros elétricos"
+    ]
+  },
+  "FERRARI F430": {
+    "preco": 372000.0,
+    "ano": 2005,
+    "km": 57973,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de chuva",
+      "Rodas de liga",
+      "Controle de tração",
+      "Ar condicionado"
+    ]
+  },
+  "CLASSIC MERCEDES": {
+    "preco": 357000.0,
+    "ano": 2014,
+    "km": 86577,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Vidros elétricos",
+      "Bancos de couro",
+      "Controle de estabilidade",
+      "Freios ABS"
+    ]
+  },
+  "MERCEDES": {
+    "preco": 333000.0,
+    "ano": 2002,
+    "km": 25150,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "Ar condicionado",
+      "Vidros elétricos",
+      "Painel digital"
+    ]
+  },
+  "SPEEDO": {
+    "preco": 153000.0,
+    "ano": 2010,
+    "km": 44165,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Vidros elétricos",
+      "Sensor de chuva",
+      "Sensor crepuscular",
+      "Ar condicionado"
+    ]
+  },
+  "PORSCHE TARGA": {
+    "preco": 318000.0,
+    "ano": 2005,
+    "km": 102500,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Teto panorâmico",
+      "Câmbio automático",
+      "Sensor crepuscular",
+      "Controle de estabilidade"
+    ]
+  },
+  "FERRARI 308 GT4": {
+    "preco": 125000.0,
+    "ano": 1999,
+    "km": 90403,
+    "motor": "Motor 4.0 Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Bancos de couro",
+      "Ar condicionado",
+      "Travas elétricas",
+      "Controle de tração"
+    ]
+  },
+  "MERCEDES BENZ 600": {
+    "preco": 373000.0,
+    "ano": 2015,
+    "km": 69171,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Piloto automático",
+      "Central multimídia",
+      "Painel digital",
+      "Rodas de liga"
+    ]
+  },
+  "PACKARD SUPER 8": {
+    "preco": 81000.0,
+    "ano": 2004,
+    "km": 4476,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "Teto panorâmico",
+      "Câmbio automático",
+      "Bancos de couro"
+    ]
+  },
+  "BENTLEY MULSANNE": {
+    "preco": 464000.0,
+    "ano": 2004,
+    "km": 61712,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Central multimídia",
+      "Travas elétricas",
+      "Painel digital"
+    ]
+  },
+  "JAGUAR XK": {
+    "preco": 201000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "4 X 4",
+      "Teto panorâmico",
+      "Sensor de chuva",
+      "Controle de tração"
+    ]
+  },
+  "PLYMOUTH": {
+    "preco": 222000.0,
+    "ano": 1999,
+    "km": 2388,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Controle de estabilidade",
+      "Freios ABS",
+      "Sensor de estacionamento"
+    ]
+  },
+  "PORSCHE 911 GT3": {
+    "preco": 376000.0,
+    "ano": 2009,
+    "km": 86538,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "4 X 4",
+      "Sensor de chuva",
+      "Rodas de liga",
+      "Central multimídia"
+    ]
+  },
+  "MERCES": {
+    "preco": 112000.0,
+    "ano": 2014,
+    "km": 11328,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Travas elétricas",
+      "Freios ABS",
+      "Controle de tração",
+      "Controle de estabilidade"
+    ]
+  },
+  "THIRTIES": {
+    "preco": 338000.0,
+    "ano": 2006,
+    "km": 93564,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Câmbio automático",
+      "Piloto automático",
+      "Ar condicionado"
+    ]
+  },
+  "PORSCHE 911 TURBO": {
+    "preco": 338000.0,
+    "ano": 1996,
+    "km": 106598,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Controle de tração",
+      "Sensor crepuscular",
+      "Vidros elétricos",
+      "Painel digital"
+    ]
+  },
+  "SKODA": {
+    "preco": 198000.0,
+    "ano": 1994,
+    "km": 77208,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Controle de estabilidade",
+      "Rodas de liga",
+      "Ar condicionado",
+      "Câmbio automático"
+    ]
+  },
+  "VOLKSWAGEN": {
+    "preco": 155000.0,
+    "ano": 2017,
+    "km": 64852,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Central multimídia",
+      "Travas elétricas",
+      "Câmbio automático"
+    ]
+  },
+  "GMC YUKON TRUCK WHEEL": {
+    "preco": 273000.0,
+    "ano": 2001,
+    "km": 70878,
+    "motor": "Motor 1.0 8v",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de estacionamento",
+      "Ar condicionado",
+      "Vidros elétricos",
+      "Câmbio automático"
+    ]
+  },
+  "PANTERA": {
+    "preco": 63000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel",
+    "status": "NOVO",
+    "descricao": [
+      "Freios ABS",
+      "Controle de estabilidade",
+      "Travas elétricas",
+      "Câmera de estacionamento"
+    ]
+  },
+  "HONDA": {
+    "preco": 448000.0,
+    "ano": 2009,
+    "km": 64735,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Câmbio automático",
+      "Vidros elétricos",
+      "Sensor de estacionamento",
+      "4 X 4"
+    ]
+  },
+  "MERCEDES AMG GTS": {
+    "preco": 376000.0,
+    "ano": 2009,
+    "km": 59305,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Sensor de estacionamento",
+      "Rodas de liga",
+      "Câmera de estacionamento"
+    ]
+  },
+  "LIMO": {
+    "preco": 353000.0,
+    "ano": 1990,
+    "km": 92448,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "Controle de estabilidade",
+      "Câmbio automático",
+      "Ar condicionado",
+      "Central multimídia"
+    ]
+  },
+  "BMW": {
+    "preco": 90000.0,
+    "ano": 2015,
+    "km": 21275,
+    "motor": "Motor Diesel V6",
+    "status": "USADO",
+    "descricao": [
+      "Controle de tração",
+      "Travas elétricas",
+      "Rodas de liga",
+      "Central multimídia"
+    ]
+  },
+  "FERRARI 288 GTO": {
+    "preco": 468000.0,
+    "ano": 1994,
+    "km": 86170,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "Piloto automático",
+      "Sensor de estacionamento",
+      "Sensor crepuscular",
+      "Rodas de liga"
+    ]
+  },
+  "AUDI RS7": {
+    "preco": 415000.0,
+    "ano": 2014,
+    "km": 117197,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Piloto automático",
+      "Controle de estabilidade",
+      "Sensor de estacionamento",
+      "Sensor de chuva"
+    ]
+  },
+  "SEAT LEON": {
+    "preco": 331000.0,
+    "ano": 1995,
+    "km": 30961,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Sensor de chuva",
+      "Câmbio automático",
+      "Freios ABS",
+      "4 X 4"
+    ]
+  },
+  "MERCEDES BENZ SLS": {
+    "preco": 237000.0,
+    "ano": 1991,
+    "km": 97949,
+    "motor": "Motor Diesel V8",
+    "status": "USADO",
+    "descricao": [
+      "Freios ABS",
+      "Rodas de liga",
+      "Câmbio automático",
+      "Painel digital"
+    ]
+  },
+  "LAGONDA": {
+    "preco": 88000.0,
+    "ano": 2016,
+    "km": 18870,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Rodas de liga",
+      "Painel digital",
+      "Sensor de estacionamento"
+    ]
+  },
+  "ANTIQUE CAR": {
+    "preco": 312000.0,
+    "ano": 2014,
+    "km": 114136,
+    "motor": "Motor Diesel",
+    "status": "USADO",
+    "descricao": [
+      "Central multimídia",
+      "Sensor de estacionamento",
+      "Controle de tração",
+      "Câmbio automático"
+    ]
+  },
+  "AUDI A5": {
+    "preco": 240000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor V6",
+    "status": "NOVO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Sensor de chuva",
+      "Vidros elétricos",
+      "Sensor de estacionamento"
+    ]
+  },
+  "COUGAR XR": {
+    "preco": 215000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 1.8 16v",
+    "status": "NOVO",
+    "descricao": [
+      "Sensor crepuscular",
+      "Controle de estabilidade",
+      "Rodas de liga",
+      "Teto panorâmico"
+    ]
+  },
+  "JAGUAR": {
+    "preco": 492000.0,
+    "ano": 1991,
+    "km": 117377,
+    "motor": "Motor V6",
+    "status": "USADO",
+    "descricao": [
+      "Teto panorâmico",
+      "Ar condicionado",
+      "Vidros elétricos",
+      "Bancos de couro"
+    ]
+  },
+  "WHITE LAMBORGHINI": {
+    "preco": 172000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor Diesel",
+    "status": "NOVO",
+    "descricao": [
+      "Controle de tração",
+      "Câmbio automático",
+      "Câmera de estacionamento",
+      "Sensor de estacionamento"
+    ]
+  },
+  "CORVETTE YELLOW": {
+    "preco": 496000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Bancos de couro",
+      "Rodas de liga",
+      "Sensor de chuva",
+      "Central multimídia"
+    ]
+  },
+  "HOUSTON FIRE DEPARTMENT": {
+    "preco": 334000.0,
+    "ano": 2010,
+    "km": 112389,
+    "motor": "Motor 5.0 V8 Bi-Turbo",
+    "status": "USADO",
+    "descricao": [
+      "Ar condicionado",
+      "Travas elétricas",
+      "Controle de tração",
+      "4 X 4"
+    ]
+  },
+  "ASTON MARTIN DBS": {
+    "preco": 331000.0,
+    "ano": 2010,
+    "km": 15193,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Ar condicionado",
+      "Vidros elétricos",
+      "Câmbio automático",
+      "Sensor de estacionamento"
+    ]
+  },
+  "AMG": {
+    "preco": 381000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 4.0 Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Freios ABS",
+      "Piloto automático",
+      "Sensor crepuscular",
+      "Vidros elétricos"
+    ]
+  },
+  "LAMBORGHINI DIABLO": {
+    "preco": 362000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 2.4 Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Ar condicionado",
+      "Sensor de estacionamento",
+      "Controle de estabilidade",
+      "Painel digital"
+    ]
+  },
+  "TRIPPELWAGEN": {
+    "preco": 281000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 2.0 16v",
+    "status": "NOVO",
+    "descricao": [
+      "Sensor de chuva",
+      "Ar condicionado",
+      "Teto panorâmico",
+      "Sensor de estacionamento"
+    ]
+  },
+  "BENTZ": {
+    "preco": 308000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 2.4 Turbo",
+    "status": "NOVO",
+    "descricao": [
+      "Freios ABS",
+      "Ar condicionado",
+      "Travas elétricas",
+      "Câmbio automático"
+    ]
+  },
+  "LUXURY SPORTS CAR": {
+    "preco": 268000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 3.0 32v",
+    "status": "NOVO",
+    "descricao": [
+      "Piloto automático",
+      "Controle de estabilidade",
+      "Câmera de estacionamento",
+      "4 X 4"
+    ]
+  },
+  "CONVERTIBLE": {
+    "preco": 192000.0,
+    "ano": 2008,
+    "km": 42427,
+    "motor": "Motor V8",
+    "status": "USADO",
+    "descricao": [
+      "Rodas de liga",
+      "Freios ABS",
+      "Câmera de estacionamento",
+      "Travas elétricas"
+    ]
+  },
+  "ROLLAND PILAIN": {
+    "preco": 432000.0,
+    "ano": 2006,
+    "km": 15128,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Painel digital",
+      "Câmbio automático",
+      "Sensor crepuscular",
+      "Rodas de liga"
+    ]
+  },
+  "SUV REAR TIRE": {
+    "preco": 489000.0,
+    "ano": 1998,
+    "km": 74292,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Câmera de estacionamento",
+      "Rodas de liga",
+      "Sensor de estacionamento",
+      "Vidros elétricos"
+    ]
+  },
+  "ANTIQUE": {
+    "preco": 427000.0,
+    "ano": 2019,
+    "km": 0,
+    "motor": "Motor 2.0 16v",
+    "status": "NOVO",
+    "descricao": [
+      "Bancos de couro",
+      "Freios ABS",
+      "Sensor de estacionamento",
+      "Teto panorâmico"
+    ]
+  },
+  "SPORT": {
+    "preco": 203000.0,
+    "ano": 2001,
+    "km": 102776,
+    "motor": "Motor 2.0 16v",
+    "status": "USADO",
+    "descricao": [
+      "Sensor crepuscular",
+      "Sensor de chuva",
+      "Vidros elétricos",
+      "Travas elétricas"
+    ]
+  },
+  "IMPERIAL": {
+    "preco": 474000.0,
+    "ano": 2011,
+    "km": 101787,
+    "motor": "Motor 1.8 16v",
+    "status": "USADO",
+    "descricao": [
+      "Painel digital",
+      "Travas elétricas",
+      "Sensor de chuva",
+      "Ar condicionado"
+    ]
+  },
+  "KIA SPORTS CAR": {
+    "preco": 366000.0,
+    "ano": 2001,
+    "km": 88564,
+    "motor": "Motor 3.0 32v",
+    "status": "USADO",
+    "descricao": [
+      "Sensor crepuscular",
+      "Bancos de couro",
+      "Sensor de estacionamento",
+      "Travas elétricas"
+    ]
+  }
+}
